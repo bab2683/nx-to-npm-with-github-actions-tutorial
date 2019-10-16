@@ -1,8 +1,16 @@
 {
   "name": "@babdev/test-publishable",
+  "author": {
+    "email": "barahona.braulio@gmail.com",
+    "name": "Braulio Barahona",
+    "url": "https://brauliobarahona.com/"
+  },
+  "description": "test library in order to setup flow to push to npm",
+  "homepage": "https://github.com/bab2683/nx-to-npm-with-github-actions-tutorial",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.4",
     "@angular/core": "^8.2.4"
-  }
+  },
+  "repository": "github:bab2683/nx-to-npm-with-github-actions-tutorial"
 }
