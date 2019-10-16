@@ -7,7 +7,7 @@
   },
   "description": "test library in order to setup flow to push to npm",
   "homepage": "https://github.com/bab2683/nx-to-npm-with-github-actions-tutorial",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "peerDependencies": {
     "@angular/common": "^8.2.4",
     "@angular/core": "^8.2.4"
