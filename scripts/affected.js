@@ -32,7 +32,7 @@ function getDeployableLibs() {
  */
 function getTypeOfCommit() {
   const result = execSync('git log -1 --pretty=%B').toString();
-  return result.match(/(.+)\(.+\:/gm);
+  return result.match(/^(.+):/gm);
 }
 
 /**
