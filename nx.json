@@ -1,0 +1,24 @@
+{
+  "npmScope": "babdev",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "main-e2e": {
+      "tags": []
+    },
+    "main": {
+      "tags": []
+    },
+    "test": {
+      "tags": []
+    },
+    "test-publishable": {
+      "tags": []
+    }
+  }
+}
